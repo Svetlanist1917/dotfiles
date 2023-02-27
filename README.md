@@ -1,5 +1,5 @@
 includes config files on Svetlana-PC
-![Screenshot_20230212_112629](https://user-images.githubusercontent.com/84134255/218326714-665fb189-34e3-40b7-a97f-8554f1601c83.png)
+![2023-02-26_23-49](https://user-images.githubusercontent.com/84134255/221484791-2092c2cf-2442-4bc0-b75a-bbe94da91107.png)
 
 
-neofetch last updated February 12 2023
+neofetch last updated February 26 2023
