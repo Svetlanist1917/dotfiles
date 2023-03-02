@@ -1,0 +1,23 @@
+{     
+     "workbench.colorTheme": "Catppuccin Mocha",
+     "catppuccin.accentColor": "red",
+     "catppuccin.italicKeywords":false,
+     "catppuccin.colorOverrides": {
+        "mocha": {
+            "base": "#000000",
+        }
+    },
+     "catppuccin.customUIColors": {
+         "mocha": {
+             "statusBar.foreground": "accent"
+         }
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontFamily": "Hack",
+    "catppuccin.bracketMode": "neovim",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontLigatures": true,
+    "editor.lineNumbers": "relative"
+}
