@@ -1,23 +1,19 @@
-{     
-     "workbench.colorTheme": "Catppuccin Mocha",
-     "catppuccin.accentColor": "red",
-     "catppuccin.italicKeywords":false,
-     "catppuccin.colorOverrides": {
-        "mocha": {
-            "base": "#000000",
-        }
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
     },
-     "catppuccin.customUIColors": {
-         "mocha": {
-             "statusBar.foreground": "accent"
-         }
-    },
-    "[python]": {
-        "editor.formatOnType": true
-    },
-    "editor.fontFamily": "Hack",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "tabnine.experimentalAutoImports": true,
+    "material-icon-theme.activeIconPack": "vue_vuex",
+    "material-icon-theme.folders.theme": "specific",
+    "editor.lineNumbers": "relative",
+    "catppuccin.accentColor": "red",
     "catppuccin.bracketMode": "neovim",
-    "workbench.iconTheme": "vscode-icons",
-    "editor.fontLigatures": true,
-    "editor.lineNumbers": "relative"
+    "catppuccin.colorOverrides": {
+        "mocha":{"base": "#000000",}
+    },
+    "vscord.app.name": "VSCodium",
+    "vscord.status.problems.enabled": false,
+    "vscord.status.state.text.editing": "Working on {file_name}{file_extension}",
 }
