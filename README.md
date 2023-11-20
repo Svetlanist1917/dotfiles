@@ -16,4 +16,5 @@
 ![Screenshot from 2023-11-20 01-30-31](https://github.com/Svetlanist1917/dotfiles/assets/84134255/13faa646-b8b5-48ad-abe1-90b295c8b04a)
 
 
-neofetch last updated February 26 2023
+PC neofetch last updated February 26 2023
+Laptop neofetch last updated November 20 2023
