@@ -13,5 +13,7 @@
 
 ![2023-02-26_23-49](https://user-images.githubusercontent.com/84134255/221484791-2092c2cf-2442-4bc0-b75a-bbe94da91107.png)
 
+![Screenshot from 2023-11-20 01-30-31](https://github.com/Svetlanist1917/dotfiles/assets/84134255/13faa646-b8b5-48ad-abe1-90b295c8b04a)
+
 
 neofetch last updated February 26 2023
